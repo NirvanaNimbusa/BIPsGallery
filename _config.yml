@@ -1,8 +1,8 @@
-name: Photo gallery
+name: Bitcoin Improvement Proposal Gallery
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
-url: https://iamnii.github.io/GridGallery/
+url: https://prayank23.github.io/BIPsGallery/
 author:
-    name: Adjetey Sowah
-    twitter: #
+    name: Prayank
+    twitter: https://twitter.com/prayankgahlot
