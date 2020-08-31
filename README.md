@@ -1,32 +1,24 @@
-Jekyll Photo Grid Gallery
+BIPs Gallery
 =========
 
-Jekyll theme based on [Blueprint: Google Grid Gallery](http://tympanus.net/codrops/?p=18699)
+Image Gallery based on [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
 
-## How to use
+## How to contribute?
+
+Create Pull Requests
+
 1. Place a large image in `/img/large/`
 2. Place a thumbnail version of the same image in `/img/thumb/`. _Remember to use the same file name_
 3. Construction a post to display the image. Use the follow as an example:
 ```txt
 ---
 layout: default
-date:   2014-04-06 23:26:12
+date:   2015-04-24 23:26:12
 photo: 1.png
-caption_header: Sample header
-caption: sample caption
+caption_header: Reusable Payment Codes for Hierarchical Deterministic Wallets
+caption: Justus Ranvier
 ---
 ```
-4. And finally, serve Jekyll source as you would normally.
 
-## [Demo](https://iamnii.github.io/GridGallery)
 
-View this jekyll theme in action [here](https://iamnii.github.io/GridGallery)
-
-## Screenshot
-![screenshot](https://raw.github.com/iamnii/GridGallery/master/jggg.png)
-
-Localhost deployment
-=========
-After [downloading](https://github.com/iamnii/GridGallery/archive/master.zip), use the normal process of serving a jekyll site. Navigate to the directory in terminal and type `jekyll build` followed by `jekyll serve`
-
-For more details, read [documentation](http://jekyllrb.com/)
+![process](https://github.com/bitcoin/bips/blob/master/bip-0002/process.png?raw=true)
