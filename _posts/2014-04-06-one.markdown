@@ -1,7 +1,7 @@
 ---
 layout: default
-date:   2014-04-06 23:26:12
-photo: 1.png
-caption_header: Sample header
-caption: sample caption
+date:   2015-12-04
+photo: 125.png
+caption_header: BIP 125 - Opt-in Full Replace-by-Fee Signaling
+caption: David A. Harding and Peter Todd
 ---
