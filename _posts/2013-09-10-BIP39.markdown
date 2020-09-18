@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2013-09-10
+photo: 39.png
+caption_header: BIP39 - Mnemonic code for generating deterministic keys
+caption: Marek Palatinus, Pavol Rusnak, Aaron Voisine and Sean Bowe
+---
