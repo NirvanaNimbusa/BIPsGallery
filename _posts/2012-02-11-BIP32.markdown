@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2012-02-11
+photo: 32.png
+caption_header: BIP 32 - Hierarchical Deterministic Wallets
+caption: Pieter Wuille
+---
