@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2014-04-24
+photo: 43.png
+caption_header: BIP 43 - Purpose Field for Deterministic Wallets
+caption: Marek Palatinus and Pavol Rusnak
+---
