@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2015-2017  
+date: 2015-12-21  
 photo: 141-143-144-145-173.png
 caption_header: BIP-141,143,144,145 and 173
 caption: Eric Lombrozo, Johnson Lau, Pieter Wuille, Luke Dashjr and Greg Maxwell 
