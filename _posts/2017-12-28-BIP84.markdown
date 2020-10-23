@@ -2,6 +2,6 @@
 layout: default
 date: 2017-12-28  
 photo: 84.png
-caption_header: Derivation scheme for P2WPKH based accounts 
+caption_header: BIP 84 - Derivation scheme for P2WPKH based accounts 
 caption: Pavol Rusnakl 
 ---
