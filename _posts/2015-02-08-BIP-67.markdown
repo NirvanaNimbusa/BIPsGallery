@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-02-08
+photo: 67.png
+caption_header: BIP 67 - Deterministic Pay-to-script-hash multi-signature addresses through public key sorting
+caption: Thomas Kerin, Jean-Pierre Rupp and Ruben de Vries
+---
