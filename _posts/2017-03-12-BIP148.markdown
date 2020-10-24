@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2017-03-12  
+photo: 148.png
+caption_header: BIP 148 - Mandatory activation of segwit deployment 
+caption: Shaolin Fry 
+---
