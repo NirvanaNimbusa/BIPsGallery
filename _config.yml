@@ -2,7 +2,7 @@ name: Bitcoin Improvement Proposal Gallery
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
-url: https://prayank23.github.io/BIPsGallery/
+url: https://bips.gallery/
 author:
     name: Prayank
     twitter: https://twitter.com/prayankgahlot
