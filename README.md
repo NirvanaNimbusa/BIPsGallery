@@ -8,13 +8,13 @@ Image Gallery based on [Bitcoin Improvement Proposals](https://github.com/bitcoi
 Create Pull Requests
 
 1. Place a large image in `/img/large/`
-2. Place a thumbnail version of the same image in `/img/thumb/`. _Remember to use the same file name_
-3. Construction a post to display the image. Use the follow as an example:
+2. Place a thumbnail version of the related image in `/img/thumb/`. _Remember to use the same file name_
+3. Create a post with details about the BIP. Use the following as an example:
 ```txt
 ---
 layout: default
 date:   2015-04-24 23:26:12
-photo: 1.png
+photo: 47.png
 caption_header: Reusable Payment Codes for Hierarchical Deterministic Wallets
 caption: Justus Ranvier
 ---
