@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2014-04-01
+photo: 42.png
+caption_header: BIP 42 - A finite monetary supply for Bitcoin
+caption: Pieter Wuille
+---
