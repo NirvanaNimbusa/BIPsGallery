@@ -1,5 +1,4 @@
 name: Bitcoin Improvement Proposal Gallery
-markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
 url: https://bips.gallery/
