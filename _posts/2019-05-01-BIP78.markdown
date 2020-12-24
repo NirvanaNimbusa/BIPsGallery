@@ -1,0 +1,7 @@
+---
+layout: default
+date: 2019-05-01  
+photo: 78.png
+caption_header: BIP 78 - A Simple Payjoin Proposal 
+caption: Nicolas Dorier 
+---
